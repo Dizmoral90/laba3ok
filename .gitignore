@@ -1,0 +1,26 @@
+# Папки сборки Visual Studio
+Debug/
+Release/
+x64/
+x86/
+
+# Временные и служебные файлы Visual Studio
+.vs/
+*.suo
+*.user
+*.sdf
+*.pdb
+*.ilk
+*.obj
+*.exe
+*.ipch
+*.tlog
+*.lastbuildstate
+
+# Файлы операционной системы
+Thumbs.db
+.DS_Store
+
+# Другие временные файлы
+*.log
+*.tmp
